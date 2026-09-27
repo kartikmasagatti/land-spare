@@ -1,0 +1,6 @@
+{
+  "name": "Landspare - National Digital Platform for Land Governance",
+  "description": "AI-powered digital platform for land records research, GIS cadastral analytics, policy impact ML prediction, and evidence-based governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
